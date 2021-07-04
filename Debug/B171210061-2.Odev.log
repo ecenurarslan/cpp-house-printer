@@ -1,0 +1,3 @@
+﻿  B171210061-2.Odev.cpp
+C:\Users\ECE\source\repos\B171210061-2.Odev\B171210061-2.Odev.cpp(201,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  B171210061-2.Odev.vcxproj -> C:\Users\ECE\source\repos\B171210061-2.Odev\Debug\B171210061-2.Odev.exe
